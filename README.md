@@ -1,4 +1,4 @@
-# <div align="center">Netflix Clone</div>
+# <div align="center">MyNetflix</div>
 
 This is a Netflix clone website built using React. It mimics the basic functionality and design of the popular streaming platform, allowing users to browse and watch movies and TV shows.
 

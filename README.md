@@ -2,7 +2,7 @@
 
 This is a Netflix clone website built using React. It mimics the basic functionality and design of the popular streaming platform, allowing users to browse and watch movies and TV shows.
 
-![Netflix Clone Demo](Gif.gif)
+<div align="center">![Netflix Clone Demo](Gif.gif)</div>
 
 ## Features
 

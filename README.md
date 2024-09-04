@@ -15,7 +15,7 @@ This is a Netflix clone website built using React. It mimics the basic functiona
 
 ## Live Demo
 
-Check out the live demo of the Netflix clone [here](https://example.com).
+Check out the live demo of the Netflix clone [here](https://netflix.com).
 
 ## Technologies Used
 
@@ -63,9 +63,3 @@ Make sure you have Node.js and npm installed on your machine.
 
 Contributions are welcome! If you find any bugs or want to add new features, 
 please feel free to open an issue or submit a pull request.
-
-
-### License
-This project is licensed under the [MIT License](https://example.com).
-
-# Firebase Hosting Coming Soon...
